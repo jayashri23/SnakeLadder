@@ -42,9 +42,22 @@
       <recent name="com.snakeladder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckOption">
+  <component name="RunManager" selected="Application.PlayTillWin">
     <configuration name="CheckOption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.snakeladder.CheckOption" />
+      <module name="SnakeLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snakeladder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayTillWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.snakeladder.PlayTillWin" />
       <module name="SnakeLadder" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PlayTillWin" />
         <item itemvalue="Application.CheckOption" />
         <item itemvalue="Application.RollDie" />
         <item itemvalue="Application.Welcome" />
@@ -113,6 +127,11 @@
           <url>file://$PROJECT_DIR$/src/com/snakeladder/CheckOption.java</url>
           <line>11</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/snakeladder/PlayTillWin.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
