@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ecab770c-d261-4729-b67a-8df581e4f093" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/snakeladder/ExactWinningPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/snakeladder/ExactWinningPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
