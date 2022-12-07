@@ -42,7 +42,20 @@
       <recent name="com.snakeladder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RollDie">
+  <component name="RunManager" selected="Application.CheckOption">
+    <configuration name="CheckOption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.snakeladder.CheckOption" />
+      <module name="SnakeLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snakeladder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RollDie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.snakeladder.RollDie" />
       <module name="SnakeLadder" />
@@ -71,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckOption" />
         <item itemvalue="Application.RollDie" />
         <item itemvalue="Application.Welcome" />
       </list>
@@ -86,5 +100,21 @@
       <updated>1670340572249</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/snakeladder/CheckOption.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/snakeladder/CheckOption.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
