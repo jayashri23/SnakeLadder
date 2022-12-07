@@ -42,9 +42,22 @@
       <recent name="com.snakeladder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PlayTillWin">
+  <component name="RunManager" selected="Application.ExactWinningPosition">
     <configuration name="CheckOption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.snakeladder.CheckOption" />
+      <module name="SnakeLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snakeladder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExactWinningPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.snakeladder.ExactWinningPosition" />
       <module name="SnakeLadder" />
       <extension name="coverage">
         <pattern>
@@ -97,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExactWinningPosition" />
         <item itemvalue="Application.PlayTillWin" />
         <item itemvalue="Application.CheckOption" />
         <item itemvalue="Application.RollDie" />
